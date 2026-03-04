@@ -1,40 +1,38 @@
 {
-  "name": "ECHO New",
+  "name": "ECHO Ultra Dark",
   "author": "Gostyk",
   "version": "1.0.0",
-  "colors": {
-    "accent": "#3E42C6",
-    "accent_hover": "#3E42C6",
-    "success": "#61C73D",
-    "danger": "#982929",
+  "spec": 2,
+  "variables": {
+    "--accent": "#3E42C6",
+    "--accent-hover": "#4c50e0",
+    "--accent-active": "#2f33a8",
 
-    "status_online": "#43b581",
-    "status_idle": "#faa61a",
-    "status_dnd": "#982929",
-    "status_streaming": "#593695",
-    "status_offline": "#808080",
+    "--background-primary": "#05050b",
+    "--background-secondary": "#0b0b14",
+    "--background-secondary-alt": "#10101a",
+    "--background-tertiary": "#141420",
+    "--background-floating": "#11111b",
 
-    "text_normal": "#d8d8db",
-    "text_muted": "#aeaeb4"
-  },
-  "background": {
-    "image": "https://i.imgur.com/6pCVmcK.png",
-    "position": "center",
-    "size": "cover",
-    "attachment": "fixed",
-    "shading_dark": "rgba(0, 0, 0, 0.6)",
-    "shading_midnight": "rgba(0, 0, 0, 0.8)"
-  },
-  "channels": {
-    "selected_background": "#3E42C6",
-    "unread": "#3E42C6",
-    "unread_hover": "#3E42C6"
-  },
-  "fonts": {
-    "main": "gg sans, Helvetica Neue, Helvetica, Arial, sans-serif",
-    "code": "Consolas, gg mono, Liberation Mono, Menlo, Courier, monospace"
-  },
-  "effects": {
-    "background_filter": "saturate(1)"
+    "--channeltextarea-background": "#0f0f18",
+    "--input-background": "#0f0f18",
+
+    "--interactive-normal": "#b9bbbe",
+    "--interactive-hover": "#ffffff",
+    "--interactive-active": "#ffffff",
+    "--interactive-muted": "#6b6f85",
+
+    "--text-normal": "#e6e6f0",
+    "--text-muted": "#9ca0b5",
+    "--text-link": "#3E42C6",
+
+    "--status-online": "#43b581",
+    "--status-idle": "#faa61a",
+    "--status-dnd": "#982929",
+    "--status-streaming": "#593695",
+    "--status-offline": "#808080",
+
+    "--scrollbar-thin-thumb": "#3E42C6",
+    "--scrollbar-thin-track": "#0b0b14"
   }
 }
