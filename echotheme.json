@@ -2,37 +2,31 @@
   "name": "ECHO Ultra Dark",
   "author": "Gostyk",
   "version": "1.0.0",
-  "spec": 2,
-  "variables": {
-    "--accent": "#3E42C6",
-    "--accent-hover": "#4c50e0",
-    "--accent-active": "#2f33a8",
+  "spec": 1,
+  "type": "dark",
+  "colors": {
+    "accent": "#3E42C6",
+    "accent_hover": "#4c50e0",
+    "accent_active": "#2f33a8",
 
-    "--background-primary": "#05050b",
-    "--background-secondary": "#0b0b14",
-    "--background-secondary-alt": "#10101a",
-    "--background-tertiary": "#141420",
-    "--background-floating": "#11111b",
+    "background_primary": "#05050b",
+    "background_secondary": "#0b0b14",
+    "background_tertiary": "#141420",
+    "background_floating": "#11111b",
 
-    "--channeltextarea-background": "#0f0f18",
-    "--input-background": "#0f0f18",
+    "text_normal": "#e6e6f0",
+    "text_muted": "#9ca0b5",
+    "text_link": "#3E42C6",
 
-    "--interactive-normal": "#b9bbbe",
-    "--interactive-hover": "#ffffff",
-    "--interactive-active": "#ffffff",
-    "--interactive-muted": "#6b6f85",
+    "interactive_normal": "#b9bbbe",
+    "interactive_hover": "#ffffff",
+    "interactive_active": "#ffffff",
+    "interactive_muted": "#6b6f85",
 
-    "--text-normal": "#e6e6f0",
-    "--text-muted": "#9ca0b5",
-    "--text-link": "#3E42C6",
-
-    "--status-online": "#43b581",
-    "--status-idle": "#faa61a",
-    "--status-dnd": "#982929",
-    "--status-streaming": "#593695",
-    "--status-offline": "#808080",
-
-    "--scrollbar-thin-thumb": "#3E42C6",
-    "--scrollbar-thin-track": "#0b0b14"
+    "status_online": "#43b581",
+    "status_idle": "#faa61a",
+    "status_dnd": "#982929",
+    "status_streaming": "#593695",
+    "status_offline": "#808080"
   }
 }
