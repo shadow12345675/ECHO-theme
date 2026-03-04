@@ -1,32 +1,49 @@
 {
   "name": "ECHO Ultra Dark",
-  "author": "Gostyk",
-  "version": "1.0.0",
-  "spec": 1,
-  "type": "dark",
-  "colors": {
-    "accent": "#3E42C6",
-    "accent_hover": "#4c50e0",
-    "accent_active": "#2f33a8",
+  "description": "Ultra dark UI with #3E42C6 accent.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "Gostyk",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "CHAT_BACKGROUND": ["#05050b"],
+    "BACKGROUND_PRIMARY": ["#05050b"],
+    "BACKGROUND_SECONDARY": ["#0b0b14"],
+    "BACKGROUND_SECONDARY_ALT": ["#10101a"],
+    "BACKGROUND_TERTIARY": ["#141420"],
+    "BACKGROUND_FLOATING": ["#11111b"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#0f0f18"],
 
-    "background_primary": "#05050b",
-    "background_secondary": "#0b0b14",
-    "background_tertiary": "#141420",
-    "background_floating": "#11111b",
+    "INTERACTIVE_ACTIVE": ["#3E42C6"],
+    "INTERACTIVE_HOVER": ["#3E42C6"],
+    "INTERACTIVE_NORMAL": ["#e6e6f0"],
+    "INTERACTIVE_MUTED": ["#6b6f85"],
 
-    "text_normal": "#e6e6f0",
-    "text_muted": "#9ca0b5",
-    "text_link": "#3E42C6",
+    "TEXT_NORMAL": ["#e6e6f0"],
+    "TEXT_MUTED": ["#9ca0b5"],
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_SECONDARY": ["#b5b8d6"],
+    "TEXT_LINK": ["#3E42C6"],
 
-    "interactive_normal": "#b9bbbe",
-    "interactive_hover": "#ffffff",
-    "interactive_active": "#ffffff",
-    "interactive_muted": "#6b6f85",
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#3E42C6"],
 
-    "status_online": "#43b581",
-    "status_idle": "#faa61a",
-    "status_dnd": "#982929",
-    "status_streaming": "#593695",
-    "status_offline": "#808080"
-  }
+    "SCROLLBAR_THIN_THUMB": ["#3E42C6"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"]
+  },
+  "rawColors": {
+    "BRAND_500": "#3E42C6",
+    "BRAND_600": "#3E42C6",
+    "PRIMARY_600": "#05050b",
+    "PRIMARY_630": "#0b0b14",
+    "PRIMARY_645": "#10101a",
+    "PRIMARY_700": "#141420",
+    "PRIMARY_800": "#11111b",
+    "WHITE_500": "#e6e6f0",
+    "WHITE_630": "#9ca0b5"
+  },
+  "spec": 2
 }
