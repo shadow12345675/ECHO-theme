@@ -15,7 +15,7 @@
 
     "BACKGROUND_BRAND": ["#3e42e6", "#3e42e6"],
 
-   
+    
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#05050b", "#ffffff"],
     "CHAT_TYPING_BACKGROUND": ["#05050b", "#f2f3f5"],
     "TEXT_TYPING_INDICATOR": ["#9aa0b3", "#5c5e66"],
