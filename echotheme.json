@@ -15,24 +15,24 @@
 
     "BACKGROUND_BRAND": ["#3e42e6", "#3e42e6"],
 
-    /* Typing indicator fix */
+   
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#05050b", "#ffffff"],
     "CHAT_TYPING_BACKGROUND": ["#05050b", "#f2f3f5"],
     "TEXT_TYPING_INDICATOR": ["#9aa0b3", "#5c5e66"],
 
-    /* Channel list matching */
+    
     "CHANNEL_LIST_BACKGROUND": ["#05050b", "#f2f3f5"],
     "CHANNEL_LIST_ACTIVE_CHANNEL_BACKGROUND": ["#3e42e622", "#3e42e618"],
     "CHANNEL_LIST_HOVER_CHANNEL_BACKGROUND": ["#3e42e610", "#3e42e608"],
 
     "CHANNELTEXTAREA_BACKGROUND": ["#06060f", "#ebedef"],
 
-    /* Brand controls */
+    
     "CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["#3e42e6", "#3e42e6"],
     "CONTROL_PRIMARY_BACKGROUND_ACTIVE": ["#3239bf", "#3239bf"],
     "CONTROL_PRIMARY_TEXT_DEFAULT": ["#ffffff", "#ffffff"],
 
-    /* Force emoji + button to brand */
+    
     "ICON_DEFAULT": ["#3e42e6", "#3e42e6"],
     "ICON_HOVER": ["#7478f5", "#3e42e6"],
     "ICON_ACTIVE": ["#8c90ff", "#3e42e6"],
