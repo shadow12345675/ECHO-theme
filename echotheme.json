@@ -1,16 +1,16 @@
 {
-  "name": "Purple Vision (Alpha Mobile)",
-  "description": "Crisp purple accents on a deep dark UI.",
-  "version": "3",
+  "name": "ECHO",
+  "description": "A theme based around the hex 3E42C6",
+  "version": "1",
   "authors": [
     {
-      "name": "Your Name",
-      "id": "000000000000000000"
+      "name": "Shadow",
+      "id": "1384575777575669771"
     }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#502673"
+      "#c63d44"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
@@ -37,7 +37,7 @@
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#000000"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BG_BASE_TERTIARY": [
       "#000000"
     ],
     "HOME_BACKGROUND": [
-      "#121214"
+      "#000000"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -91,7 +91,7 @@
       "#000000"
     ],
     "CARD_SECONDARY_BG": [
-      "#0f0f12"
+      "#000000"
     ],
     "CHANNELS_DEFAULT": [
       "#d6d4d9"
@@ -133,7 +133,7 @@
       "#000000"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#121214"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#000000"
@@ -169,10 +169,10 @@
       "#000000"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#121214"
+      "#000000"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#121214"
+      "#000000"
     ],
     "POLLS_VICTOR_FILL": [
       "#37956b80"
@@ -211,13 +211,13 @@
       "#faa61a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2b2b2b"
+      "#000000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2b2b2b"
+      "#000000"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
@@ -266,13 +266,13 @@
     "PLUM_11": "#d6d4d9",
     "PLUM_13": "#d6d4d9",
     "PLUM_15": "#3e42c6",
-    "PLUM_16": "#121214",
+    "PLUM_16": "#000000",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
-    "PLUM_19": "#121214",
+    "PLUM_19": "#000000",
     "PLUM_20": "#000000",
-    "PLUM_21": "#121214",
-    "PLUM_22": "#121214",
+    "PLUM_21": "#000000",
+    "PLUM_22": "#000000",
     "PLUM_24": "#000000",
     "PLUM_25": "#000000",
     "PRIMARY_100": "#d6d4d9",
@@ -281,16 +281,16 @@
     "PRIMARY_330": "#d6d4d9",
     "PRIMARY_360": "#3e42c6",
     "PRIMARY_400": "#3e42c6",
-    "PRIMARY_460": "#121214",
+    "PRIMARY_460": "#000000",
     "PRIMARY_500": "#3e42c6",
     "PRIMARY_530": "#3e42c6",
     "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#121214",
+    "PRIMARY_630": "#000000",
     "PRIMARY_645": "#000000",
-    "PRIMARY_660": "#121214",
+    "PRIMARY_660": "#000000",
     "PRIMARY_700": "#0c0c0e",
     "PRIMARY_730": "#d6d4d9",
-    "PRIMARY_800": "#0f0f12",
+    "PRIMARY_800": "#000000",
     "GREEN_260": "#37956b",
     "GREEN_300": "#37956b",
     "GREEN_330": "#37956b",
