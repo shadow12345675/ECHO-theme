@@ -1,49 +1,73 @@
 {
-  "name": "ECHO Ultra Dark",
-  "description": "Ultra dark UI with #3E42C6 accent.",
-  "version": "1",
+  "name": "ECHO Obsidian",
+  "description": "Ultra-dark obsidian UI with vibrant #3e42e6 accent and clean neutral text.",
   "authors": [
     {
-      "name": "Gostyk",
-      "id": "000000000000000000"
+      "name": "Gostyk"
     }
   ],
+  "spec": 2,
   "semanticColors": {
-    "CHAT_BACKGROUND": ["#05050b"],
-    "BACKGROUND_PRIMARY": ["#05050b"],
-    "BACKGROUND_SECONDARY": ["#0b0b14"],
-    "BACKGROUND_SECONDARY_ALT": ["#10101a"],
-    "BACKGROUND_TERTIARY": ["#141420"],
-    "BACKGROUND_FLOATING": ["#11111b"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#0f0f18"],
+    "BACKGROUND_BASE_LOW": ["#05050b", "#ffffff"],
+    "BACKGROUND_BASE_LOWER": ["#04040a", "#f2f3f5"],
+    "BACKGROUND_BASE_LOWEST": ["#030309", "#ebedef"],
 
-    "INTERACTIVE_ACTIVE": ["#3E42C6"],
-    "INTERACTIVE_HOVER": ["#3E42C6"],
-    "INTERACTIVE_NORMAL": ["#e6e6f0"],
-    "INTERACTIVE_MUTED": ["#6b6f85"],
+    "BACKGROUND_SURFACE_HIGH": ["#070711", "#ffffff"],
+    "BACKGROUND_SURFACE_HIGHEST": ["#080812", "#ffffff"],
 
-    "TEXT_NORMAL": ["#e6e6f0"],
-    "TEXT_MUTED": ["#9ca0b5"],
-    "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#b5b8d6"],
-    "TEXT_LINK": ["#3E42C6"],
+    "BACKGROUND_BRAND": ["#3e42e6", "#3e42e6"],
+    "BACKGROUND_ACCENT": ["#3e42e620", "#3e42e614"],
 
-    "HEADER_PRIMARY": ["#ffffff"],
-    "HEADER_SECONDARY": ["#3E42C6"],
+    "BACKGROUND_MODIFIER_HOVER": ["#3e42e612", "#3e42e60f"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#3e42e626", "#3e42e61a"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#3e42e633", "#3e42e626"],
 
-    "SCROLLBAR_THIN_THUMB": ["#3E42C6"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"]
+    "CARD_BACKGROUND_DEFAULT": ["#06060f", "#ffffff"],
+    "CARD_SECONDARY_BG": ["#05050c", "#ffffff"],
+
+    "MODAL_BACKGROUND": ["#05050b", "#ffffff"],
+    "MODAL_FOOTER_BACKGROUND": ["#04040a", "#f2f3f5"],
+
+    "CHAT_BANNER_BG": ["#04040a", "#f2f3f5"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#07070f", "#ebedef"],
+
+    "CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["#3e42e6", "#3e42e6"],
+    "CONTROL_PRIMARY_BACKGROUND_ACTIVE": ["#3239bf", "#3239bf"],
+    "CONTROL_PRIMARY_TEXT_DEFAULT": ["#ffffff", "#ffffff"],
+
+    "INTERACTIVE_BACKGROUND_HOVER": ["#3e42e612", "#3e42e60f"],
+    "INTERACTIVE_BACKGROUND_ACTIVE": ["#3e42e626", "#3e42e61a"],
+
+    "TEXT_DEFAULT": ["#e6e8f2", "#313338"],
+    "TEXT_STRONG": ["#ffffff", "#060607"],
+    "TEXT_MUTED": ["#9aa0b3", "#5c5e66"],
+    "TEXT_BRAND": ["#7478f5", "#3e42e6"],
+    "TEXT_LINK": ["#7478f5", "#006be7"],
+
+    "ICON_DEFAULT": ["#cfd3ff", "#4e5058"],
+    "ICON_MUTED": ["#7c81a3", "#80848e"],
+
+    "STATUS_ONLINE": ["#23a55a", "#24934e"],
+    "STATUS_IDLE": ["#f0b232", "#af7615"],
+    "STATUS_DANGER": ["#f23f43", "#da373c"],
+
+    "SCROLLBAR_THIN_THUMB": ["#2a2c44", "#c4c9ce"],
+    "SCROLLBAR_THIN_TRACK": ["transparent", "transparent"],
+
+    "BACKGROUND_SCRIM": ["#000000b8", "#0000008a"]
   },
   "rawColors": {
-    "BRAND_500": "#3E42C6",
-    "BRAND_600": "#3E42C6",
+    "BRAND_500": "#3e42e6",
+    "BRAND_560": "#3239bf",
+    "BRAND_360": "#7478f5",
+    "BRAND_260": "#b2b5fb",
+
     "PRIMARY_600": "#05050b",
-    "PRIMARY_630": "#0b0b14",
-    "PRIMARY_645": "#10101a",
-    "PRIMARY_700": "#141420",
-    "PRIMARY_800": "#11111b",
-    "WHITE_500": "#e6e6f0",
-    "WHITE_630": "#9ca0b5"
-  },
-  "spec": 2
+    "PRIMARY_630": "#04040a",
+    "PRIMARY_645": "#030309",
+    "PRIMARY_700": "#020207",
+
+    "WHITE_500": "#e6e8f2",
+    "WHITE_630": "#9aa0b3"
+  }
 }
